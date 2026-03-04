@@ -14,7 +14,6 @@
 , glibc
 , ncurses5
 , python3
-, python310
 , python311
 , python312
 , libxml2_13
